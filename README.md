@@ -19,7 +19,7 @@ To download Python Libraries:
 
 1)Open CMD
 
-2)Type : pip install lirary_name
+2)Type (pip install lirary_name): 
 
   pip install numpy
   
