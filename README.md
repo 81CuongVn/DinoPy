@@ -23,4 +23,5 @@ To download Python Libraries:
   pip install pyautogui
   
 ## Working:
+
 **[Back to Top](#DinoPy)**
