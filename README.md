@@ -15,7 +15,7 @@ chrome://dino
   
 Pyhton Download : https://www.python.org/downloads/
 
-#### To download Python Libraries:
+### To download Python Libraries:
 
 1)Open CMD
 
