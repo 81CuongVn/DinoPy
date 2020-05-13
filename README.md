@@ -4,11 +4,11 @@ A naive python bot that plays Google Chrome's Dino game.
 Link to Dino game: chrome://dino
 
 Requirements:
- 1) Python
- 2) Python Libraries:
-   * Pillow
-   * Numpy
-   * Pyautogui
+1) Python
+2) Python Libraries:
+ * Pillow
+ * Numpy
+ * Pyautogui
 
 To download Python Libraries:
 
