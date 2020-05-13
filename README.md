@@ -20,8 +20,11 @@ To download Python Libraries:
 1)Open CMD
 
 2)Type : pip install lirary_name
+
   pip install numpy
+  
   pip install pillow
+  
   pip install pyautogui
   
 ## Steps:
