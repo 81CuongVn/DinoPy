@@ -2,6 +2,7 @@
 A naive python bot that plays Google Chrome's Dino game.
 
 Link to Dino game (simply copy-paste this into Chrome's url box):
+
 chrome://dino
 
 ## Requirements:
