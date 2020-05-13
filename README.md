@@ -21,11 +21,11 @@ Pyhton Download : https://www.python.org/downloads/
 
 2)Type (pip install library_name): 
 
-  pip install numpy
+  * pip install numpy
   
-  pip install pillow
+  * pip install pillow
   
-  pip install pyautogui
+  * pip install pyautogui
   
 ## Steps:
 
