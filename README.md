@@ -1,7 +1,7 @@
 # DinoPy
 A naive python bot that plays Google Chrome's Dino game.
 
-Link to Dino game: chrome://dino  -- simply copy-paste this into Chrome's url box
+Link to Dino game: chrome://dino   --simply copy-paste this into Chrome's url box
 
 ## Requirements:
 1) Python
