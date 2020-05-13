@@ -6,9 +6,12 @@ Link to Dino game: chrome://dino
 Requirements:
 1) Python
 2) Python Libraries:
- * Pillow
- * Numpy
- * Pyautogui
+* Pillow
+* Numpy
+* Pyautogui
+
+  
+Pyhton Download : https://www.python.org/downloads/
 
 To download Python Libraries:
 
@@ -19,5 +22,4 @@ To download Python Libraries:
   pip install pillow
   pip install pyautogui
 
-Program Source Code : https://pastebin.com/3wUBxfaV
-Pyhton Download : https://www.python.org/downloads/
+**[Back to Top](#DinoPy)**
