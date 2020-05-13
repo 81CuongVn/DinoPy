@@ -22,6 +22,6 @@ To download Python Libraries:
   pip install pillow
   pip install pyautogui
   
-## Working:
+## Steps:
 
 **[Back to Top](#DinoPy)**
