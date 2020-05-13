@@ -1,4 +1,23 @@
 # DinoPy
 A naive python bot that plays Google Chrome's Dino game.
 
- [link to Dino Game](chrome://dino)
+Link to Dino game: chrome://dino
+
+Requirements:
+ 1) Python
+ 2) Python Libraries:
+   * Pillow
+   * Numpy
+   * Pyautogui
+
+To download Python Libraries:
+
+1)Open CMD
+
+2)Type : pip install lirary_name
+  pip install numpy
+  pip install pillow
+  pip install pyautogui
+
+Program Source Code : https://pastebin.com/3wUBxfaV
+Pyhton Download : https://www.python.org/downloads/
