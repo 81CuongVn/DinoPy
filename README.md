@@ -3,7 +3,7 @@ A naive python bot that plays Google Chrome's Dino game.
 
 Link to Dino game: chrome://dino
 
-# Requirements:
+## Requirements:
 1) Python
 2) Python Libraries:
 * Pillow
@@ -22,5 +22,5 @@ To download Python Libraries:
   pip install pillow
   pip install pyautogui
   
-# Working
+## Working:
 **[Back to Top](#DinoPy)**
