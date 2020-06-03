@@ -31,19 +31,19 @@ Pyhton Download : https://www.python.org/downloads/
   
 ## Steps:
 1] Align the chrome tab to the left.
-<img src=img/Align.png width=500 height=350>
+<img src=img/Align.PNG width=500 height=350>
 
 2] Hit SpaceBar and take a screenshot using Win + PrintScreen.
-<img src=img/Start.png width=500 height=350>
+<img src=img/Start.PNG width=500 height=350>
 
 
 3] Find the area of pixels in front of the dino to detect obstacles.
   * Ceate a rectangle box ahead of the dino
-  <img src=img/Rect.png width=500 height=350>
+  <img src=img/Rect.PNG width=500 height=350>
 
   * Hover over the corners to find the X, Y Coordinates
-  <img src=img/Area.png width=500 height=350>
-  <img src=img/Area2.png width=500 height=350>
+  <img src=img/Area.PNG width=500 height=350>
+  <img src=img/Area2.PNG width=500 height=350>
 
   
 
