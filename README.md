@@ -5,7 +5,7 @@ A naive python bot that plays Google Chrome's Dino game.
 
 chrome://dino
 
-<img src=img/DinoPy.PNG width=640 height=360>
+<img src=img/DinoPy.png width=640 height=360>
 
 ## Requirements:
 1) Python
