@@ -5,7 +5,7 @@ A naive python bot that plays Google Chrome's Dino game.
 
 chrome://dino
 
-<img src=img/DinoPy.png width=640 height=360>
+<img src=img/DinoPy.PNG width=640 height=360>
 
 ## Requirements:
 1) Python
@@ -44,7 +44,7 @@ Pyhton Download : https://www.python.org/downloads/
 
   * Hover over the corners to find the X, Y Coordinates
   <img src=img/Area.PNG width=640 height=360>
-  <img src=img/Area2.png width=640 height=360>
+  <img src=img/Areas.png width=640 height=360>
 
   
 
