@@ -44,7 +44,7 @@ Pyhton Download : https://www.python.org/downloads/
 
   * Hover over the corners to find the X, Y Coordinates
   <img src=img/Area.PNG width=640 height=360>
-  <img src=img/Area2.PNG width=640 height=360>
+  <img src=img/Area2.png width=640 height=360>
 
   
 
