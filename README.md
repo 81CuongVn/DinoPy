@@ -5,6 +5,8 @@ A naive python bot that plays Google Chrome's Dino game.
 
 chrome://dino
 
+<img src=img/DinoPy.png width=500 height=350>
+
 ## Requirements:
 1) Python
 2) Python Libraries:
@@ -29,23 +31,26 @@ Pyhton Download : https://www.python.org/downloads/
   
 ## Steps:
 1] Align the chrome tab to the left.
-<img src= width=500 height=350>
+<img src=img/Align.png width=500 height=350>
 
 2] Hit SpaceBar and take a screenshot using Win + PrintScreen.
-<img src= width=500 height=350>
+<img src=img/Start.png width=500 height=350>
 
 
 3] Find the area of pixels in front of the dino to detect obstacles.
   * Ceate a rectangle box ahead of the dino
-  <img src= width=500 height=350>
+  <img src=img/Rect.png width=500 height=350>
 
   * Hover over the corners to find the X, Y Coordinates
- <img src= width=500 height=350>
+  <img src=img/Area.png width=500 height=350>
+  <img src=img/Area2.png width=500 height=350>
+
+  
 
 
 
 4] Edit the pixel coordinates in the py file.
-<img src= width=500 height=350>
+<img src=img/Edit.png width=500 height=350>
 
 
 5] Run and optimize it to your preference.
