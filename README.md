@@ -31,6 +31,7 @@ Pyhton Download : https://www.python.org/downloads/
   
 ## Steps:
 1] Align the chrome tab to the left.
+
 <img src=img/Align.PNG width=640 height=360>
 
 2] Hit SpaceBar and take a screenshot using Win + PrintScreen.
